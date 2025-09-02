@@ -18,4 +18,3 @@ pip install dvc
 dvc init
 dvc add data/
 ```
-
